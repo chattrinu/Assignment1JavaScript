@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+
+.btnSub{
+    background-color: purple;
+    border-radius: 50%;
+    font-size: 25px;
+    padding: 40px 20px;
+}
+
+
+.btnVerb{
+    background-color: rgb(0, 162, 255);
+    border-radius: 50%;
+    font-size: 25px;
+    padding: 40px 20px;
+}
+
+
+
+.btnAdj{
+    background-color: green;
+    border-radius: 50%;
+    padding: 40px 20px;
+}
+
+
+.btnObj{
+    background-color: orange;
+    border-radius: 50%;
+    padding: 40px 20px;
+}
+
+/*css for the  button5*/
+.btnPrep{
+    background-color: #f62681;
+    border-radius: 50%;
+    padding: 40px 20px;
+}
+
+
+.btnSur{
+        background-color: red;
+        border-radius: 50%;
+        padding: 50px 20px;
+    }
+
+
+.btnPlay{
+            background-color: lightskyblue;
+            border-radius: 50%;
+            padding: 50px 20px;
+        }
+
+     
+html{
+    background-color: pink;
+}
+
+
+ h1:hover{
+    background-color: blue;
+    
+}
+
+
+.img{
+    width: 40%;
+    float: left;
+}
+
+/*css for the  main 
+width 60%
+float right*/
+main{
+    width: 60%;
+    float: right;
+}
+
+/*css for the  sbtn that adds padding to it*/
+.bttn{
+    padding: 100px;
+}
+
+
+.surprise{
+    position: relative;
+    font-size: 30px;
+    font-style: italic;
+    padding: 50px;
+}
+.btnPlay{
+    position: relative;
+    font-size: 30px;
+    font-style: italic;
+    padding: 50px;
+}
+
+
+.text1{
+  
+  font-size: 30px;
+  font-style: italic;
+  color:red;
+}
+.text2{
+    
+    font-size: 30px;
+    font-style: italic;
+    color: blue;
+  }
+
+
